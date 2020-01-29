@@ -1,1 +1,3 @@
-# js_invaders
+# JavaScript Invaders!
+
+Let's kill some aliens
